@@ -9,5 +9,6 @@ public class Group2 {
     System.out.println("Princess Hannah Bangibang");
     System.out.println("John Adriel Gervacio");
     System.out.println("John Albert Yapo");
+    System.out.println("Katrina Burgos");
   }
 }
