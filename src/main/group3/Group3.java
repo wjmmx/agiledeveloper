@@ -7,5 +7,6 @@ public class Group3 {
     System.out.println("Levi Emmanuel O. Frias");
     System.out.println("Christian Leroy Castillo");
     System.out.println("Monica D. Dasmariñas");
+    System.out.println("Gene Anthony Kadano");
   }
 }
