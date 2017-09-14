@@ -7,5 +7,6 @@ public class Group2 {
     System.out.println("Gayle Star");
     System.out.println("Caloi Licup");
     System.out.println("Princess Hannah Bangibang");
+    System.out.println("John Adriel Gervacio");
   }
 }
