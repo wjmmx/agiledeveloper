@@ -6,6 +6,9 @@ package group1;
 public class Group1 {
     public static void main(String[] args) {
         System.out.println("Ghino Punzalan");
+        System.out.println("Cenon Plana");
     }
+
+
 }
 
