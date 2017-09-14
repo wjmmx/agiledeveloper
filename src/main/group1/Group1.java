@@ -10,6 +10,7 @@ public class Group1 {
         System.out.println("Cenon Plana");
 		System.out.println("Doris Zhang");
         System.out.println("Khimberlyjhyms Teng");
+        System.out.println("Angelica Buan");
     }
 
 
