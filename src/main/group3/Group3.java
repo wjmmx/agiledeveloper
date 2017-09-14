@@ -1,4 +1,4 @@
-﻿package group3;
+package group3;
 
 public class Group3 {
   public static void main(String[] args) {
