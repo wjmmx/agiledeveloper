@@ -13,6 +13,7 @@ public class Group1 {
         System.out.println("Khimberlyjhyms Teng");
         System.out.println("Jossel Escober");
         System.out.println("Angelica Buan");
+        System.out.println("Jasper Barcelon");
     }
 }
 
