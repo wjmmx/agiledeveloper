@@ -10,5 +10,6 @@ public class Group2 {
     System.out.println("John Adriel Gervacio");
     System.out.println("John Albert Yapo");
     System.out.println("Katrina Burgos");
+    System.out.println("Ryan James Carreon");
   }
 }
