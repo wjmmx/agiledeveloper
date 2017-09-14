@@ -5,6 +5,7 @@ public class Group3 {
     System.out.println("Junno Beringuela");
     System.out.println("Louise-Marie S. Dalupan");
     System.out.println("Levi Emmanuel O. Frias");
+    System.out.println("Christian Leroy Castillo");
      
   }
 }
