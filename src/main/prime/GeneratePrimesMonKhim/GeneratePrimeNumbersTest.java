@@ -12,81 +12,68 @@ public class GeneratePrimeNumbersTest {
 	@SuppressWarnings("static-access")
 	@Test
 	public void testPrimeNumbersZero() {
-		// fail("Not yet implemented");
-
 		assertEquals(null, generatePrimes.GeneratePrimeNumbers(0));
-
 	}
 	
+	@Test
+	public void testPrimeNumbersOne() {
+		assertEquals(null, generatePrimes.GeneratePrimeNumbers(1));
+	}
+
 	@Test
 	public void testPrimeNumbersTwo() {
-		// fail("Not yet implemented");
-
 		assertEquals(Arrays.asList(2), generatePrimes.GeneratePrimeNumbers(2));
-
 	}
-	
+
 	@Test
 	public void testPrimeNumbersThree() {
-		// fail("Not yet implemented");
-
-		assertEquals(Arrays.asList(2,3), generatePrimes.GeneratePrimeNumbers(3));
-
+		assertEquals(Arrays.asList(2, 3), generatePrimes.GeneratePrimeNumbers(3));
 	}
-	
+
 	@Test
 	public void testPrimeNumbersFour() {
-		// fail("Not yet implemented");
-
-		assertEquals(Arrays.asList(2,3), generatePrimes.GeneratePrimeNumbers(4));
-
+		assertEquals(Arrays.asList(2, 3), generatePrimes.GeneratePrimeNumbers(4));
 	}
-	
+
 	@Test
 	public void testPrimeNumbersFive() {
-		// fail("Not yet implemented");
-
-		assertEquals(Arrays.asList(2,3,5), generatePrimes.GeneratePrimeNumbers(5));
-
+		assertEquals(Arrays.asList(2, 3, 5), generatePrimes.GeneratePrimeNumbers(5));
 	}
-	
+
 	@Test
 	public void testPrimeNumbersSix() {
-		// fail("Not yet implemented");
-
-		assertEquals(Arrays.asList(2,3,5), generatePrimes.GeneratePrimeNumbers(6));
-
+		assertEquals(Arrays.asList(2, 3, 5), generatePrimes.GeneratePrimeNumbers(6));
 	}
-	
+
 	@Test
 	public void testPrimeNumbersSeven() {
-		// fail("Not yet implemented");
-
-		assertEquals(Arrays.asList(2,3,5,7), generatePrimes.GeneratePrimeNumbers(7));
-
+		assertEquals(Arrays.asList(2, 3, 5, 7), generatePrimes.GeneratePrimeNumbers(7));
 	}
-	
+
 	@Test
 	public void testPrimeNumbersEight() {
-		// fail("Not yet implemented");
-
-		assertEquals(Arrays.asList(2,3,5,7), generatePrimes.GeneratePrimeNumbers(8));
+		assertEquals(Arrays.asList(2, 3, 5, 7), generatePrimes.GeneratePrimeNumbers(8));
 
 	}
-	
+
 	@Test
 	public void testPrimeNumbersNine() {
-		// fail("Not yet implemented");
 
-		assertEquals(Arrays.asList(2,3,5,7), generatePrimes.GeneratePrimeNumbers(9));
+		assertEquals(Arrays.asList(2, 3, 5, 7), generatePrimes.GeneratePrimeNumbers(9));
 
 	}
-	
+
 	@Test
 	public void testPrimeNumbersTen() {
-		// fail("Not yet implemented");
 
-		assertEquals(Arrays.asList(2,3,5,7), generatePrimes.GeneratePrimeNumbers(10));
+		assertEquals(Arrays.asList(2, 3, 5, 7), generatePrimes.GeneratePrimeNumbers(10));
+
+	}
+
+	@Test
+	public void testPrimeNumbersEleven() {
+
+		assertEquals(Arrays.asList(2, 3, 5, 7, 11), generatePrimes.GeneratePrimeNumbers(11));
 
 	}
 
